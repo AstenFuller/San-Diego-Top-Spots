@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+a:link, a:visited {
+    background-color: hsl(244, 70%, 28%);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+  .name {
+      width: 20%;
+      border-style: solid;
+  }
+
+  .description {
+      width: 60%;
+      border-style: solid;
+  }
+
+  .location {
+      width: 20%;
+  }
